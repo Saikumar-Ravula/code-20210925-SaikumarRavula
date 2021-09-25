@@ -1,0 +1,12 @@
+.dashboardDiv{
+    display: flex;
+    justify-content: center;
+    background-color: #f5f5f5;
+}
+
+.carListDiv{
+    display: flex;
+    width: 1280px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}

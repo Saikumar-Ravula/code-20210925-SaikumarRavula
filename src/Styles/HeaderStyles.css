@@ -1,0 +1,14 @@
+.headerDiv{
+    height: 150px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+}
+
+.topBar{
+    height: 60%;
+    border-bottom: 1px solid lightgrey;
+}
+
+.bottomBar {
+
+}
