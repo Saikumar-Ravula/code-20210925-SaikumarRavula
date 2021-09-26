@@ -1,12 +1,12 @@
 export interface CarInfo {
-    type : CarType
-    name : string;
-    price : string;
-    image? : any;
+  type: CarType;
+  name: string;
+  price: string;
+  image?: any;
 }
 
 export enum CarType {
-    Hatchback,
-    Sedan,
-    SUV
+  Hatchback,
+  Sedan,
+  SUV,
 }
